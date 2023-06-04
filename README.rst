@@ -108,12 +108,13 @@ Input file format::
 
 Interface:
 
-.. image:: https://hackmd.io/_uploads/SJUYh75Un.png
+.. image:: https://i.imgur.com/h1AAuYK.png
+  :width: 400px
 
 Sample Result 
 ==========================
 
-.. image:: https://hackmd.io/_uploads/r1wLI75Lh.png
+.. image:: https://i.imgur.com/9dqyTpQ.png
 
 
 Engineering Infrastructure
@@ -130,4 +131,5 @@ References
 ==========
 
 A simple algorithm for Boolean operations on polygons: https://www.sciencedirect.com/science/article/pii/S0965997813000379
+
 A new algorithm for computing Boolean operations on polygons: https://www.sciencedirect.com/science/article/pii/S0098300408002793
